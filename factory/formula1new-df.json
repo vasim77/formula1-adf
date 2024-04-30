@@ -1,0 +1,9 @@
+{
+	"name": "formula1new-df",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "43adc370-77fc-47f8-9fb3-1d95951b4348",
+		"tenantId": "e40f0b2c-3dd6-44b2-a14e-f72f95b5e414"
+	}
+}

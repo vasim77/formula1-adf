@@ -1,0 +1,11 @@
+{
+	"name": "ls_lookup_act",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://formula1new.dfs.core.windows.net/"
+		}
+	}
+}
